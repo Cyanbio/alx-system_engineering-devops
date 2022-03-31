@@ -1,0 +1,4 @@
+o string SCHOOL School data
+! :mime School in vi environment
+In terminal
+file -C -m school.mgc
